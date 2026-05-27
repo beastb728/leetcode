@@ -8,16 +8,21 @@ using namespace std;
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        vector<int> ans;
-        for(int i = 0; i < nums.size(); i++){
-            if((i + k) > nums.size()-1) {
-                ans.push_back(nums[i + k - nums.size()]);
+        int n = nums.size();
+        k = k % n;
+        vector<int> ans(n);
+        for(int i = 0; i < n; i++) {
+            int index;
+            if((i + k) > n - 1) {
+                index = i + k - n;
             }
             else {
-                ans.push_back(nums[i + k]);
+                index = i + k;
             }
+            ans[index] = nums[i];
         }
-        for(auto x : ans) {
+        nums = ans;
+        for(auto x : nums) {
             cout << x << " ";
         }
     }
