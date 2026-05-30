@@ -11,22 +11,18 @@ public:
         int n = nums.size();
         int i = n - 2;
 
-        // 1. Find the first decreasing element from the right
         while (i >= 0 && nums[i] >= nums[i + 1]) {
             i--;
         }
 
         if (i >= 0) {
-            // 2. Find the element just larger than nums[i]
             int j = n - 1;
             while (nums[j] <= nums[i]) {
                 j--;
             }
-            // 3. Swap them
             swap(nums[i], nums[j]);
         }
 
-        // 4. Reverse the suffix to get the smallest lexicographical order
         reverse(nums.begin() + i + 1, nums.end());
     }
 };
