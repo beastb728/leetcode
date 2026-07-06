@@ -6,6 +6,7 @@ My LeetCode solutions and notes.
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Sorting
@@ -53,4 +54,12 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
