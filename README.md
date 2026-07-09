@@ -10,6 +10,7 @@ My LeetCode solutions and notes.
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -17,6 +18,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 ## Math
 |  |
