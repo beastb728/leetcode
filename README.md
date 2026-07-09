@@ -24,6 +24,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
+| [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/beastb728/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Depth-First Search
@@ -94,5 +95,6 @@ My LeetCode solutions and notes.
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
