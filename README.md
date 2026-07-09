@@ -8,6 +8,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -25,6 +26,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/beastb728/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -80,6 +82,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -98,4 +101,8 @@ My LeetCode solutions and notes.
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
