@@ -14,6 +14,7 @@ My LeetCode solutions and notes.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -21,6 +22,7 @@ My LeetCode solutions and notes.
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +50,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/beastb728/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -55,10 +58,12 @@ My LeetCode solutions and notes.
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -92,6 +97,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -105,4 +111,12 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
