@@ -137,4 +137,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Database
+|  |
+| ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/beastb728/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
