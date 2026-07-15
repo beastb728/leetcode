@@ -91,6 +91,7 @@ My LeetCode solutions and notes.
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/beastb728/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -113,6 +114,7 @@ My LeetCode solutions and notes.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -148,4 +150,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
