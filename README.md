@@ -30,6 +30,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -143,4 +144,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/beastb728/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
