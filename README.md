@@ -33,6 +33,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+| [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -129,6 +130,7 @@ My LeetCode solutions and notes.
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Greedy
 |  |
