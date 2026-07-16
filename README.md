@@ -139,6 +139,7 @@ My LeetCode solutions and notes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/beastb728/leetcode/tree/master/0191-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
@@ -162,4 +163,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/beastb728/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
