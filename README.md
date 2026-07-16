@@ -33,6 +33,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+| [0089-gray-code](https://github.com/beastb728/leetcode/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -139,6 +140,7 @@ My LeetCode solutions and notes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/beastb728/leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/beastb728/leetcode/tree/master/0191-number-of-1-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -163,6 +165,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/beastb728/leetcode/tree/master/0089-gray-code) |
 ## Divide and Conquer
 |  |
 | ------- |
