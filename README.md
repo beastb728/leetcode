@@ -35,6 +35,7 @@ My LeetCode solutions and notes.
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/beastb728/leetcode/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -78,6 +79,7 @@ My LeetCode solutions and notes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -161,6 +163,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 ## Backtracking
 |  |
 | ------- |
