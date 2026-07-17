@@ -35,6 +35,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/beastb728/leetcode/tree/master/0089-gray-code) |
 | [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
@@ -83,6 +84,7 @@ My LeetCode solutions and notes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -189,4 +191,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
