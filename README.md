@@ -9,6 +9,7 @@ My LeetCode solutions and notes.
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/beastb728/leetcode/tree/master/0137-single-number-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -24,6 +25,7 @@ My LeetCode solutions and notes.
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/beastb728/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -40,6 +42,7 @@ My LeetCode solutions and notes.
 | [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
