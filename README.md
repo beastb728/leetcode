@@ -171,6 +171,7 @@ My LeetCode solutions and notes.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/beastb728/leetcode/tree/master/0175-combine-two-tables) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/beastb728/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Recursion
 |  |
