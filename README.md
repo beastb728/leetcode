@@ -188,6 +188,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/beastb728/leetcode/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/beastb728/leetcode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/beastb728/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/beastb728/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Recursion
