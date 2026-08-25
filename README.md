@@ -6,6 +6,7 @@ My LeetCode solutions and notes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/beastb728/leetcode/tree/master/0137-single-number-ii) |
@@ -116,6 +117,7 @@ My LeetCode solutions and notes.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/beastb728/leetcode/tree/master/1331-rank-transform-of-an-array) |
