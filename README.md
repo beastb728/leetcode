@@ -8,6 +8,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/beastb728/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/beastb728/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@ My LeetCode solutions and notes.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/beastb728/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -135,6 +137,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/beastb728/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
@@ -170,6 +173,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
