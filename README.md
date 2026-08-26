@@ -175,6 +175,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/beastb728/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
@@ -270,4 +271,12 @@ My LeetCode solutions and notes.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/beastb728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/beastb728/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/beastb728/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
