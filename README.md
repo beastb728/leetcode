@@ -7,6 +7,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ My LeetCode solutions and notes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
@@ -227,6 +229,7 @@ My LeetCode solutions and notes.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/beastb728/leetcode/tree/master/0191-number-of-1-bits) |
 ## Combinatorics
 |  |
