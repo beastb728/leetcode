@@ -12,6 +12,7 @@ My LeetCode solutions and notes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/beastb728/leetcode/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/beastb728/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -148,6 +149,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beastb728/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
