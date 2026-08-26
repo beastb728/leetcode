@@ -8,6 +8,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/beastb728/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -143,6 +144,7 @@ My LeetCode solutions and notes.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/beastb728/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -150,6 +152,7 @@ My LeetCode solutions and notes.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/beastb728/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beastb728/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
