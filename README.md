@@ -7,6 +7,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/beastb728/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/beastb728/leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/beastb728/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
@@ -164,6 +165,7 @@ My LeetCode solutions and notes.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/beastb728/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
@@ -195,6 +197,7 @@ My LeetCode solutions and notes.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/beastb728/leetcode/tree/master/0011-container-with-most-water) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
