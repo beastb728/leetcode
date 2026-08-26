@@ -11,6 +11,7 @@ My LeetCode solutions and notes.
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/beastb728/leetcode/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/beastb728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/beastb728/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
@@ -93,6 +94,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/beastb728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/beastb728/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -167,6 +169,7 @@ My LeetCode solutions and notes.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/beastb728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/beastb728/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -247,5 +250,6 @@ My LeetCode solutions and notes.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/beastb728/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
