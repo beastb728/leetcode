@@ -15,6 +15,7 @@ My LeetCode solutions and notes.
 | [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -243,4 +244,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
