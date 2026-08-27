@@ -239,6 +239,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/beastb728/leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
 ## Backtracking
@@ -288,4 +289,8 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/beastb728/leetcode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/beastb728/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
