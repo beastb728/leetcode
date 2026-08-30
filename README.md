@@ -57,6 +57,7 @@ My LeetCode solutions and notes.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/beastb728/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/beastb728/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/beastb728/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
@@ -241,6 +242,7 @@ My LeetCode solutions and notes.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/beastb728/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/beastb728/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/beastb728/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/beastb728/leetcode/tree/master/0206-reverse-linked-list) |
@@ -296,6 +298,7 @@ My LeetCode solutions and notes.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/beastb728/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/beastb728/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/beastb728/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/beastb728/leetcode/tree/master/0141-linked-list-cycle) |
