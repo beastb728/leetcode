@@ -121,6 +121,7 @@ My LeetCode solutions and notes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
+| [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -187,6 +188,7 @@ My LeetCode solutions and notes.
 | [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
+| [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/beastb728/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
