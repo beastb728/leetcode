@@ -25,6 +25,7 @@ My LeetCode solutions and notes.
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/beastb728/leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/beastb728/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -69,6 +70,7 @@ My LeetCode solutions and notes.
 | [0263-ugly-number](https://github.com/beastb728/leetcode/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -124,6 +126,7 @@ My LeetCode solutions and notes.
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -281,6 +284,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -311,4 +315,12 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/beastb728/leetcode/tree/master/0141-linked-list-cycle) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
