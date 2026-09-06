@@ -123,6 +123,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0053-maximum-subarray](https://github.com/beastb728/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/beastb728/leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/beastb728/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/beastb728/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/beastb728/leetcode/tree/master/0486-predict-the-winner) |
@@ -192,6 +193,7 @@ My LeetCode solutions and notes.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/beastb728/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/beastb728/leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/beastb728/leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/beastb728/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/beastb728/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
