@@ -74,6 +74,7 @@ My LeetCode solutions and notes.
 | [0628-maximum-product-of-three-numbers](https://github.com/beastb728/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1137-n-th-tribonacci-number](https://github.com/beastb728/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -131,6 +132,7 @@ My LeetCode solutions and notes.
 | [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
 | [0746-min-cost-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/beastb728/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -286,6 +288,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/beastb728/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
