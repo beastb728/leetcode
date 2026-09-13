@@ -26,6 +26,7 @@ My LeetCode solutions and notes.
 | [0643-maximum-average-subarray-i](https://github.com/beastb728/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/beastb728/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/beastb728/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/beastb728/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
@@ -174,6 +175,7 @@ My LeetCode solutions and notes.
 | [0054-spiral-matrix](https://github.com/beastb728/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/beastb728/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/beastb728/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/beastb728/leetcode/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/beastb728/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
