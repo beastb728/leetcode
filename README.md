@@ -137,6 +137,7 @@ My LeetCode solutions and notes.
 | [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/beastb728/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/beastb728/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/beastb728/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/beastb728/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -194,6 +195,7 @@ My LeetCode solutions and notes.
 | [0141-linked-list-cycle](https://github.com/beastb728/leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/beastb728/leetcode/tree/master/0283-move-zeroes) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/beastb728/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -207,6 +209,7 @@ My LeetCode solutions and notes.
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
 | [0940-distinct-subsequences-ii](https://github.com/beastb728/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/beastb728/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -228,6 +231,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/beastb728/leetcode/tree/master/0011-container-with-most-water) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
