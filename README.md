@@ -56,6 +56,7 @@ My LeetCode solutions and notes.
 | [1331-rank-transform-of-an-array](https://github.com/beastb728/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/beastb728/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/beastb728/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/beastb728/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2332-the-latest-time-to-catch-a-bus](https://github.com/beastb728/leetcode/tree/master/2332-the-latest-time-to-catch-a-bus) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/beastb728/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -169,6 +170,7 @@ My LeetCode solutions and notes.
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/beastb728/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/beastb728/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/beastb728/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/beastb728/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -213,6 +215,7 @@ My LeetCode solutions and notes.
 | [0242-valid-anagram](https://github.com/beastb728/leetcode/tree/master/0242-valid-anagram) |
 | [0664-strange-printer](https://github.com/beastb728/leetcode/tree/master/0664-strange-printer) |
 | [0940-distinct-subsequences-ii](https://github.com/beastb728/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/beastb728/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -235,6 +238,7 @@ My LeetCode solutions and notes.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/beastb728/leetcode/tree/master/0011-container-with-most-water) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/beastb728/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/beastb728/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/beastb728/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
