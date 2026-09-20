@@ -78,6 +78,7 @@ My LeetCode solutions and notes.
 | [0877-stone-game](https://github.com/beastb728/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1137-n-th-tribonacci-number](https://github.com/beastb728/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/beastb728/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2485-find-the-pivot-integer](https://github.com/beastb728/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/beastb728/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/beastb728/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -234,6 +235,7 @@ My LeetCode solutions and notes.
 | ------- |
 | [0223-rectangle-area](https://github.com/beastb728/leetcode/tree/master/0223-rectangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/beastb728/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/beastb728/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Greedy
 |  |
 | ------- |
